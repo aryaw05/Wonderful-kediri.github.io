@@ -234,7 +234,7 @@ p{
 .konten-1{
     margin: 100px 0 50px 0;
     padding: 10px 25px;
-    background-image: url(foto/Asset/lingkaran-kuning.svg);
+    background-image: url(../foto/Asset/lingkaran-kuning.svg);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 300px;
@@ -268,7 +268,7 @@ p{
 .konten-2{
     /* margin-top: 20px; */
     padding: 10px 25px;
-    background-image: url(foto/Asset/konten-3-lingkaran.svg);
+    background-image: url(../foto/Asset/konten-3-lingkaran.svg);
     background-repeat: no-repeat;
     overflow: hidden;
     
